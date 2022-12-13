@@ -1,0 +1,51 @@
+#titulo {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#subtitulo {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.foto1 {
+    
+    text-align:center;
+    
+}
+
+#filho1 {
+    position:relative;
+    text-align: center;
+    top:100px;
+    left:0px;
+    
+}
+
+.blocker {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+}
+
+.dinheiro {
+    height:60px;
+    background-color:#DDD;
+    font-size:large;
+}
+
+.dinheiro .filho2 {
+    position:relative;
+    top:0px;
+    left:0px;
+}
+
+.frase {
+    height:60px;
+    background-color:#DDD;
+    font-size:large;
+}
+
+.waklas {
+    text-align:center;
+}
